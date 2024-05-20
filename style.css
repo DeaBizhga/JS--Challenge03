@@ -1,0 +1,21 @@
+.slider{
+
+    width: 100%;
+    margin: 30px;
+    align-content: center;
+    padding-left: 23%;
+
+}
+
+button{
+margin-top: 8px;
+color:rgb(237, 238, 240) ;
+border-radius: 6px;
+border: none;
+background-color: rgb(145, 142, 148);
+
+}
+
+#prev{
+    margin-left: 45%;
+}
